@@ -48,3 +48,6 @@ def plot_clusters(data, labels):
     plt.ylabel("Feature 2")
     plt.legend()
     plt.show()
+
+    
+    

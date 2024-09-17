@@ -1,0 +1,275 @@
+﻿  alg.cpp
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,14): error C2011: DBSCAN: переопределение типа "class"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,9): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(25,1): error C2550: {ctor}: список инициализации конструктора должен использоваться только в месте определения конструктора
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,5): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,19): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(27,1): warning C4508: {ctor}: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,16): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,26): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(39,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,71): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,92): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): error C2660: calculateDistance: функция не принимает 1 аргументов
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,33): message : см. объявление "calculateDistance"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): message : при попытке сопоставить список аргументов "()"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,106): error C2065: epsilon: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,39): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,32): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(60,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(61,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(67,32): error C2065: minPoints: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(68,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(71,15): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,25): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,22): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,20): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,28): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,9): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,15): error C2084: функция "int {ctor}(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,double,int)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,15): message : см. предыдущее определение "{ctor}"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(25,1): error C2550: {ctor}: список инициализации конструктора должен использоваться только в месте определения конструктора
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,5): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,19): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,16): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,33): error C2084: функция "double calculateDistance(const std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,33): message : см. предыдущее определение "calculateDistance"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,26): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,39): error C2084: функция "std::vector<int,std::allocator<int>> findNeighbors(int)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,39): message : см. предыдущее определение "findNeighbors"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(39,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,71): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,92): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): error C2065: calculateDistance: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,106): error C2065: epsilon: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): error C2568: <: не удается разрешить перегрузку функции
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): message : может быть "double calculateDistance(const std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,27): error C2084: функция "void expandCluster(int,const std::vector<int,std::allocator<int>> &)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,27): message : см. предыдущее определение "expandCluster"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,39): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,32): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,45): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(53,17): error C2065: expandCluster: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,17): error C2084: функция "void run(void)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,17): message : см. предыдущее определение "run"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(60,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(61,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,38): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(67,32): error C2065: minPoints: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(68,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(71,15): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,25): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(73,13): error C2065: expandCluster: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,27): error C2084: функция "void printClusters(void)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,27): message : см. предыдущее определение "printClusters"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,22): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,20): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,28): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,9): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(25,1): error C2550: {ctor}: список инициализации конструктора должен использоваться только в месте определения конструктора
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,5): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,19): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,16): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,26): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(39,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,71): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,92): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): error C2065: calculateDistance: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,106): error C2065: epsilon: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): error C2568: <: не удается разрешить перегрузку функции
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): message : может быть "double calculateDistance(const std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,39): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,32): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,45): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(53,17): error C2065: expandCluster: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(60,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(61,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,38): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(67,32): error C2065: minPoints: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(68,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(71,15): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,20): fatal  error C1003: число ошибок превышает 100; остановка компиляции
+  main.cpp
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,14): error C2011: DBSCAN: переопределение типа "class"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,9): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(25,1): error C2550: {ctor}: список инициализации конструктора должен использоваться только в месте определения конструктора
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,5): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,19): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(27,1): warning C4508: {ctor}: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,16): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,26): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(39,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,71): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,92): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): error C2660: calculateDistance: функция не принимает 1 аргументов
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,33): message : см. объявление "calculateDistance"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): message : при попытке сопоставить список аргументов "()"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,106): error C2065: epsilon: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,39): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,32): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(60,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(61,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(67,32): error C2065: minPoints: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(68,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(71,15): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,25): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,22): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,20): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,28): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,9): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,15): error C2084: функция "int {ctor}(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,double,int)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,15): message : см. предыдущее определение "{ctor}"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(25,1): error C2550: {ctor}: список инициализации конструктора должен использоваться только в месте определения конструктора
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,5): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,19): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,16): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,33): error C2084: функция "double calculateDistance(const std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,33): message : см. предыдущее определение "calculateDistance"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,26): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,39): error C2084: функция "std::vector<int,std::allocator<int>> findNeighbors(int)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,39): message : см. предыдущее определение "findNeighbors"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(39,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,71): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,92): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): error C2065: calculateDistance: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,106): error C2065: epsilon: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): error C2568: <: не удается разрешить перегрузку функции
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): message : может быть "double calculateDistance(const std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,27): error C2084: функция "void expandCluster(int,const std::vector<int,std::allocator<int>> &)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,27): message : см. предыдущее определение "expandCluster"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,39): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,32): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,45): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(53,17): error C2065: expandCluster: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,17): error C2084: функция "void run(void)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,17): message : см. предыдущее определение "run"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(60,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(61,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,38): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(67,32): error C2065: minPoints: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(68,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(71,15): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,25): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(73,13): error C2065: expandCluster: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,27): error C2084: функция "void printClusters(void)" уже имеет текст реализации
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(78,27): message : см. предыдущее определение "printClusters"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,22): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,20): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(79,28): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(23,9): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(25,1): error C2550: {ctor}: список инициализации конструктора должен использоваться только в месте определения конструктора
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,5): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(26,19): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(29,16): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(37,26): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(39,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,71): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,92): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,53): error C2065: calculateDistance: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,106): error C2065: epsilon: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): error C2568: <: не удается разрешить перегрузку функции
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(40,113): message : может быть "double calculateDistance(const std::vector<double,std::allocator<double>> &,const std::vector<double,std::allocator<double>> &)"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(47,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(49,39): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(50,32): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,45): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(51,43): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(53,17): error C2065: expandCluster: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(59,14): error C2027: использование неопределенного типа "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(5,7): message : см. объявление "DBSCAN"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(60,28): error C2065: dataset: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(61,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,38): error C2065: findNeighbors: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): error C2440: инициализация: невозможно преобразовать "std::vector<int,std::allocator<int>> (__cdecl *)(int)" в "std::vector<int,std::allocator<int>>"
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(65,36): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(67,32): error C2065: minPoints: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(68,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(71,15): error C2065: clusterLabel: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,13): error C2065: labels: необъявленный идентификатор
+C:\!projects\machine-learning\cpp\cpp\alg.cpp(72,20): fatal  error C1003: число ошибок превышает 100; остановка компиляции
+  Создание кода...
